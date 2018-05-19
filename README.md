@@ -13,6 +13,6 @@
 
 3.Implement Code
 * You can change it to any colors you want!
-* file name ironManBlueBlue.ino (undet the folder Arduino) 
+* file name ironManBlueBlue.ino (under the folder Arduino) 
 * Link : https://github.com/chini5ko/IoT-projects/tree/master/Arduino
 
