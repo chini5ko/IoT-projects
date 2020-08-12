@@ -1,7 +1,7 @@
 
 # NeoPixel Plant 
 
-<img src="https://github.com/chini5ko/fun-projects/blob/master/plantBasil.png" width="350"/>
+<img src="https://github.com/chini5ko/fun-projects/blob/master/plantBasil.jpg" width="350"/>
 
 ### Materials
 * NeoPixel 24, https://www.adafruit.com/product/1586
